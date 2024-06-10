@@ -1,0 +1,4 @@
+Contact: https://georgesale.co.uk/#contact
+Expires: 2027-06-09T23:01:00.000Z
+Preferred-Languages: en
+Canonical: https://georgesale.co.uk/.well-known/security.txt
